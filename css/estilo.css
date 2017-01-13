@@ -1,0 +1,93 @@
+.barra_superios{
+    background-color: black;
+    padding: 3px; 
+}
+
+
+
+div.example-orbit ul li {
+padding-left: 0px !important;
+}
+
+.titulo{
+    color: aliceblue;
+    margin-left: 1em;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 1px;
+}
+
+.menu li{
+    margin-top: 3%;
+   display:inline-block;
+     padding-right: 10px;
+    color:black;
+}
+
+
+
+.texto{
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+    font-size: 13px;
+    margin-left: 2em;
+}
+
+.contenido_1{
+    background-image:url("/img/textura.png");
+    padding: 3em;
+}
+
+
+.productos{
+    background-color:#d9d9d9;
+     margin-top: 1em;
+    padding: 1em;
+  
+}
+
+
+.titulo_producto{
+    color: #bc0404;
+}
+
+.info{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;   
+}
+
+.frase{
+    font-family:  'Anton', sans-serif;
+    background-color: rgba(0,0,0,.6);
+    color: white;
+    position: absolute;
+    top: 35%;
+    left: 10%
+}
+
+.imagen_espia{
+    position: relative;
+}
+
+.fondo_producto{ 
+background-color: aliceblue;
+    padding: 1em;
+}
+
+
+.footer{
+    background-color:black;
+    padding: 3em;
+    
+}
+
+
+.menu_footer li{
+    display: inline-block;
+    color:dimgray;  
+    padding-right: 10px
+}
+
+
+.logo_footer{
+    margin-top: -20px;
+}
